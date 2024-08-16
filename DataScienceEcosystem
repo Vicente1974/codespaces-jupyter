@@ -1,0 +1,207 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<center>\n",
+    "    <img src=\"https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png\" width=\"300\" alt=\"cognitiveclass.ai logo\">\n",
+    "</center>\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Data Science Tools and Ecosystem\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Introducción\n",
+    "Este cuaderno ha sido creado para hacer unas pruebas durante un curso de IBM"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Elementos Cubiertos en Este Cuaderno\n",
+    "\n",
+    "- Introducción a la Ciencia de Datos\n",
+    "- Herramientas y Bibliotecas Esenciales\n",
+    "- Técnicas de Análisis de Datos\n",
+    "- Modelos Predictivos y de Clasificación\n",
+    "- Interpretación y Comunicación de Resultados\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Bibliotecas de Ciencia de Datos\n",
+    "\n",
+    "- NumPy\n",
+    "- Pandas\n",
+    "- Matplotlib\n",
+    "- Scikit-learn\n",
+    "- TensorFlow\n",
+    "- Keras\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Herramientas de Ciencia de Datos\n",
+    "\n",
+    "| Herramienta    | Descripción                          |\n",
+    "|----------------|--------------------------------------|\n",
+    "| Jupyter        | Entorno interactivo para notebooks   |\n",
+    "| RStudio        | Entorno de desarrollo para R         |\n",
+    "| TensorFlow     | Biblioteca para aprendizaje profundo |\n",
+    "| Apache Spark   | Motor de análisis de datos           |\n",
+    "| Tableau        | Herramienta de visualización de datos|\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Ejemplos de Expresiones Aritméticas\n",
+    "\n",
+    "- Suma: \\(3 + 2 = 5\\)\n",
+    "- Resta: \\(7 - 4 = 3\\)\n",
+    "- Multiplicación: \\(6 \\times 3 = 18\\)\n",
+    "- División: \\(8 \\div 2 = 4\\)\n",
+    "- Potencia: \\(2^3 = 8\\)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Multiplicación: 15\n",
+      "Suma: 8\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Multiplicación y suma de números\n",
+    "a = 5\n",
+    "b = 3\n",
+    "\n",
+    "# Multiplicar\n",
+    "multiplicacion = a * b\n",
+    "\n",
+    "# Sumar\n",
+    "suma = a + b\n",
+    "\n",
+    "print(\"Multiplicación:\", multiplicacion)\n",
+    "print(\"Suma:\", suma)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# esta es una expresión aritmética simple para luego agregar números enteros\n",
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "200 minutos son 3.3333333333333335 horas\n"
+     ]
+    }
+   ],
+   "source": [
+    "# esto convertirá 200 minutos en horas buceando en 60.\n",
+    "# Convertir minutos en horas\n",
+    "minutos = 200\n",
+    "horas = minutos / 60\n",
+    "\n",
+    "print(f\"{minutos} minutos son {horas} horas\")\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Autor\n",
+    "\n",
+    " ## Vicente Cerrillo\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
